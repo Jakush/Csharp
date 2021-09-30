@@ -13,6 +13,8 @@ namespace Csharp
                 static void Main(string[] args)
                 {
                         Console.WriteLine("Hello, this is test C# application.");
+                        
+                        Console.ReadLine();
                 }
         }
 {
