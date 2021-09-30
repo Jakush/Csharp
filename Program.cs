@@ -7,11 +7,12 @@ using System.Threading.Tasks;
 namespace Csharp
 {
 
-  class Program
-  {
+        class Program
+        {
   
-    static void Main(string[] args)
-    {
-    }
-  }
+                static void Main(string[] args)
+                {
+                        Console.WriteLine("Hello, this is test C# application.");
+                }
+        }
 {
